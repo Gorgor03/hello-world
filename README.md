@@ -1,4 +1,4 @@
-# Feature zmena A
+# Feature zmena B
 MojeB
 
 # Title
