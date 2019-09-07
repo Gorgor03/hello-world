@@ -1,5 +1,5 @@
-# Feature zmena E
-NejakaFeature
+# Feature zmena E+M
+NejakaFeature master
 
 # Title
 What da fak?
