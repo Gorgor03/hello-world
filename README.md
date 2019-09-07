@@ -1,5 +1,5 @@
-# Feature zmena B
-MojeB
+# Feature zmena C
+Feature
 
 # Title
 What da fak?
